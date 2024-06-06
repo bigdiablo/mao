@@ -1,0 +1,1420 @@
+/* ---NEW FIXES May 2020--- */
+
+.mat-tab-nav-bar.mat-primary.mat-background-primary[_ngcontent-hhp-c11] .mat-ink-bar[_ngcontent-hhp-c11],
+.mat-tab-group.mat-primary.mat-background-primary .mat-ink-bar {
+    background-color: #01b88e !important;
+}
+
+.mat-tab-group.mat-background-primary .mat-tab-header,
+.mat-tab-group.mat-background-primary .mat-tab-links,
+.mat-tab-nav-bar.mat-background-primary .mat-tab-header,
+.mat-tab-nav-bar.mat-background-primary .mat-tab-links {
+    background-color: #292e31 !important;
+}
+
+.btn.btn-primary.active.focus,
+.btn.btn-primary.active:focus,
+.btn.btn-primary.active:hover,
+.btn.btn-primary:active.focus,
+.btn.btn-primary:active:focus,
+.btn.btn-primary:active:hover,
+.mat-button.btn.btn-primary.active.focus,
+.mat-button.btn.btn-primary.active:focus,
+.mat-button.btn.btn-primary.active:hover,
+.mat-button.btn.btn-primary:active.focus,
+.mat-button.btn.btn-primary:active:focus,
+.mat-button.btn.btn-primary:active:hover,
+.mat-raised-button.btn.btn-primary.active.focus,
+.mat-raised-button.btn.btn-primary.active:focus,
+.mat-raised-button.btn.btn-primary.active:hover,
+.mat-raised-button.btn.btn-primary:active.focus,
+.mat-raised-button.btn.btn-primary:active:focus,
+.mat-raised-button.btn.btn-primary:active:hover,
+.mat-raised-button.btn:not([class*=mat-elevation-z]).btn-primary.active.focus,
+.mat-raised-button.btn:not([class*=mat-elevation-z]).btn-primary.active:focus,
+.mat-raised-button.btn:not([class*=mat-elevation-z]).btn-primary.active:hover,
+.mat-raised-button.btn:not([class*=mat-elevation-z]).btn-primary:active.focus,
+.mat-raised-button.btn:not([class*=mat-elevation-z]).btn-primary:active:focus,
+.mat-raised-button.btn:not([class*=mat-elevation-z]).btn-primary:active:hover,
+.open>.btn.btn-primary.dropdown-toggle.focus,
+.open>.btn.btn-primary.dropdown-toggle:focus,
+.open>.btn.btn-primary.dropdown-toggle:hover,
+.open>.mat-button.btn.btn-primary.dropdown-toggle.focus,
+.open>.mat-button.btn.btn-primary.dropdown-toggle:focus,
+.open>.mat-button.btn.btn-primary.dropdown-toggle:hover,
+.open>.mat-raised-button.btn.btn-primary.dropdown-toggle.focus,
+.open>.mat-raised-button.btn.btn-primary.dropdown-toggle:focus,
+.open>.mat-raised-button.btn.btn-primary.dropdown-toggle:hover,
+.open>.mat-raised-button.btn:not([class*=mat-elevation-z]).btn-primary.dropdown-toggle.focus,
+.open>.mat-raised-button.btn:not([class*=mat-elevation-z]).btn-primary.dropdown-toggle:focus,
+.open>.mat-raised-button.btn:not([class*=mat-elevation-z]).btn-primary.dropdown-toggle:hover,
+.show>.btn.btn-primary.dropdown-toggle.focus,
+.show>.btn.btn-primary.dropdown-toggle:focus,
+.show>.btn.btn-primary.dropdown-toggle:hover,
+.show>.mat-button.btn.btn-primary.dropdown-toggle.focus,
+.show>.mat-button.btn.btn-primary.dropdown-toggle:focus,
+.show>.mat-button.btn.btn-primary.dropdown-toggle:hover,
+.show>.mat-raised-button.btn.btn-primary.dropdown-toggle.focus,
+.show>.mat-raised-button.btn.btn-primary.dropdown-toggle:focus,
+.show>.mat-raised-button.btn.btn-primary.dropdown-toggle:hover,
+.show>.mat-raised-button.btn:not([class*=mat-elevation-z]).btn-primary.dropdown-toggle.focus,
+.show>.mat-raised-button.btn:not([class*=mat-elevation-z]).btn-primary.dropdown-toggle:focus,
+.show>.mat-raised-button.btn:not([class*=mat-elevation-z]).btn-primary.dropdown-toggle:hover {
+    color: #fff;
+    background-color: #01b88e !important;
+    border-color: #01b88e !important;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #01b88e !important;
+    border-color: #01b88e !important;
+    box-shadow: none !important;
+}
+
+.btn.btn-success.active.focus,
+.btn.btn-success.active:focus,
+.btn.btn-success.active:hover,
+.btn.btn-success:active.focus,
+.btn.btn-success:active:focus,
+.btn.btn-success:active:hover,
+.mat-button.btn.btn-success.active.focus,
+.mat-button.btn.btn-success.active:focus,
+.mat-button.btn.btn-success.active:hover,
+.mat-button.btn.btn-success:active.focus,
+.mat-button.btn.btn-success:active:focus,
+.mat-button.btn.btn-success:active:hover,
+.mat-raised-button.btn.btn-success.active.focus,
+.mat-raised-button.btn.btn-success.active:focus,
+.mat-raised-button.btn.btn-success.active:hover,
+.mat-raised-button.btn.btn-success:active.focus,
+.mat-raised-button.btn.btn-success:active:focus,
+.mat-raised-button.btn.btn-success:active:hover,
+.mat-raised-button.btn:not([class*=mat-elevation-z]).btn-success.active.focus,
+.mat-raised-button.btn:not([class*=mat-elevation-z]).btn-success.active:focus,
+.mat-raised-button.btn:not([class*=mat-elevation-z]).btn-success.active:hover,
+.mat-raised-button.btn:not([class*=mat-elevation-z]).btn-success:active.focus,
+.mat-raised-button.btn:not([class*=mat-elevation-z]).btn-success:active:focus,
+.mat-raised-button.btn:not([class*=mat-elevation-z]).btn-success:active:hover,
+.open>.btn.btn-success.dropdown-toggle.focus,
+.open>.btn.btn-success.dropdown-toggle:focus,
+.open>.btn.btn-success.dropdown-toggle:hover,
+.open>.mat-button.btn.btn-success.dropdown-toggle.focus,
+.open>.mat-button.btn.btn-success.dropdown-toggle:focus,
+.open>.mat-button.btn.btn-success.dropdown-toggle:hover,
+.open>.mat-raised-button.btn.btn-success.dropdown-toggle.focus,
+.open>.mat-raised-button.btn.btn-success.dropdown-toggle:focus,
+.open>.mat-raised-button.btn.btn-success.dropdown-toggle:hover,
+.open>.mat-raised-button.btn:not([class*=mat-elevation-z]).btn-success.dropdown-toggle.focus,
+.open>.mat-raised-button.btn:not([class*=mat-elevation-z]).btn-success.dropdown-toggle:focus,
+.open>.mat-raised-button.btn:not([class*=mat-elevation-z]).btn-success.dropdown-toggle:hover,
+.show>.btn.btn-success.dropdown-toggle.focus,
+.show>.btn.btn-success.dropdown-toggle:focus,
+.show>.btn.btn-success.dropdown-toggle:hover,
+.show>.mat-button.btn.btn-success.dropdown-toggle.focus,
+.show>.mat-button.btn.btn-success.dropdown-toggle:focus,
+.show>.mat-button.btn.btn-success.dropdown-toggle:hover,
+.show>.mat-raised-button.btn.btn-success.dropdown-toggle.focus,
+.show>.mat-raised-button.btn.btn-success.dropdown-toggle:focus,
+.show>.mat-raised-button.btn.btn-success.dropdown-toggle:hover,
+.show>.mat-raised-button.btn:not([class*=mat-elevation-z]).btn-success.dropdown-toggle.focus,
+.show>.mat-raised-button.btn:not([class*=mat-elevation-z]).btn-success.dropdown-toggle:focus,
+.show>.mat-raised-button.btn:not([class*=mat-elevation-z]).btn-success.dropdown-toggle:hover {
+    color: #fff;
+    background-color: #292e31 !important;
+    border-color: #292e31 !important;
+}
+
+.btn.btn-success.focus,
+.btn.btn-success:focus,
+.btn.btn-success:hover,
+.mat-button.btn.btn-success.focus,
+.mat-button.btn.btn-success:focus,
+.mat-button.btn.btn-success:hover,
+.mat-raised-button.btn.btn-success.focus,
+.mat-raised-button.btn.btn-success:focus,
+.mat-raised-button.btn.btn-success:hover,
+.mat-raised-button.btn:not([class*=mat-elevation-z]).btn-success.focus,
+.mat-raised-button.btn:not([class*=mat-elevation-z]).btn-success:focus,
+.mat-raised-button.btn:not([class*=mat-elevation-z]).btn-success:hover {
+    color: #fff;
+    background-color: #292e31 !important;
+    border-color: #292e31 !important;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #292e31 !important;
+    border-color: #292e31 !important;
+    box-shadow: none !important;
+}
+
+.nav .nav-item {
+    margin: 0 0 15px 0 !important;
+}
+
+.sidebar ul li.active>a {
+    background: #01b88e !important;
+}
+
+.footer .copyright {
+    text-transform: uppercase;
+    font-size: 12px !important;
+    color: #01b88e !important;
+}
+
+.footer .copyright a {
+    color: #01b88e !important;
+}
+
+.sidebar {
+    background: #292e31 !important;
+}
+
+.sidebar-background {
+    display: none !important;
+}
+
+.section-login .absolute,
+.card-login .card-header {
+    background: #23272a !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+.card-login .card-footer .btn-success {
+    color: #01b88e !important;
+}
+
+.form-control,
+.is-focused .form-control {
+    background-image: linear-gradient(to top, #01b88e 2px, rgba(156, 39, 176, 0) 2px), linear-gradient(to top, #d2d2d2 1px, rgba(210, 210, 210, 0) 1px) !important;
+}
+
+.img-dashboard {
+    display: none !important;
+}
+
+
+/* ---NEW FIXES May 2020--- */
+
+.copyright {
+    padding: 0 !important;
+    color: #fff !important;
+    font-weight: 700 !important;
+    font-size: 12px !important;
+    margin: 0 0 -8px 0;
+}
+
+.login-page {
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+.fixed-plugin {
+    display: none;
+}
+
+.navbar-form {
+    display: none !important;
+}
+
+.sidebar .nav-submenu {
+    width: auto !important;
+    margin: 0 15px !important;
+    transition: all .5s ease;
+}
+
+.sidebar:hover .nav-submenu,
+.sidebar-mini .sidebar:hover .nav-submenu {
+    width: auto !important;
+    margin: 0 15px !important;
+    padding-right: 10px !important;
+    padding-left: 15% !important;
+}
+
+
+/* .sidebar .nav-mobile-menu {
+    display: none !important;
+} */
+
+.sidebar-mini .sidebar {
+    overflow: hidden !important;
+}
+
+.sidebar .nav-submenu span {
+    font-size: 16px;
+}
+
+.sidebar-mini .sidebar .nav-submenu {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 50px !important;
+    padding-right: 0 !important;
+    padding-left: 15px !important;
+    height: 46px !important;
+    overflow: hidden;
+    white-space: nowrap;
+    margin: 0 auto !important;
+    text-align: center !important;
+    transition: all .5s ease;
+}
+
+.sidebar-mini .sidebar .nav-submenu span {
+    font-size: 16px;
+    float: left;
+    margin: 0 15px 0 0;
+    width: 30px;
+    text-align: center;
+}
+
+.sidebar .nav-submenu span {
+    margin: 0 10px 0 0;
+}
+
+@media only screen and (max-width: 1000px) {
+    .tab-action {
+        display: block !important;
+        border: 0 !important;
+    }
+    .tab-action-menu {
+        width: 100% !important;
+        min-height: auto !important;
+        padding: 10px 20px !important;
+        margin: 0 !important;
+    }
+    .tab-action-menu-item {
+        position: relative !important;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: flex-start !important;
+        width: calc((100% / 3) - 10px) !important;
+        height: 60px !important;
+        min-height: auto !important;
+        line-height: 1;
+        color: #999;
+        padding: 0 30px 0 10px !important;
+        margin: 5px !important;
+        border: 2px solid #01b88e;
+        border-radius: 10px;
+    }
+    .inner-action {
+        top: 0 !important;
+        right: 0 !important;
+        width: auto !important;
+        height: auto !important;
+    }
+    .inner-action .inner-arrow {
+        display: none !important;
+    }
+    .inner-count {
+        width: auto !important;
+        height: auto !important;
+        padding: 6px !important;
+        margin: 0 !important;
+        border-radius: 0 !important;
+        color: #01b88e !important;
+        font-size: 12px !important;
+        font-weight: 600 !important;
+        background: transparent !important;
+    }
+    .tab-action-menu-item-active .inner-count {
+        color: #fff !important;
+        background: transparent !important;
+    }
+    .tab-action-checkboxes {
+        width: 100% !important;
+    }
+    .inner-control {
+        height: auto !important;
+        padding: 0 20px;
+        margin: 0;
+        border-bottom: 2px solid #eee;
+    }
+
+    .dayparts thead .day-row .day-label:nth-child(2) span,
+    .dayparts thead .day-row .day-label:nth-child(3) span,
+    .dayparts thead .day-row .day-label:nth-child(4) span,
+    .dayparts thead .day-row .day-label:nth-child(5) span,
+    .dayparts thead .day-row .day-label:nth-child(6) span,
+    .dayparts thead .day-row .day-label:nth-child(7) span,
+    .dayparts thead .day-row .day-label:nth-child(8) span{
+        display: none;
+    }
+
+    .dayparts thead .day-row .day-label:nth-child(2)::before,
+    .dayparts thead .day-row .day-label:nth-child(3)::before,
+    .dayparts thead .day-row .day-label:nth-child(4)::before,
+    .dayparts thead .day-row .day-label:nth-child(5)::before,
+    .dayparts thead .day-row .day-label:nth-child(6)::before,
+    .dayparts thead .day-row .day-label:nth-child(7)::before,
+    .dayparts thead .day-row .day-label:nth-child(8)::before{
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: 30px;
+        font-weight: 600;
+        font-size: 12px;
+        color: #fff;
+        background: #292E31;
+        text-transform: uppercase;
+        border-bottom: 1px solid #eee;
+    }
+
+    .dayparts thead .day-row .day-label:nth-child(2)::before{
+        content: "s";
+    }
+    .dayparts thead .day-row .day-label:nth-child(3)::before{
+        content: "m";
+    }
+    .dayparts thead .day-row .day-label:nth-child(4)::before{
+        content: "t";
+    }
+    .dayparts thead .day-row .day-label:nth-child(5)::before{
+        content: "w";
+    }
+    .dayparts thead .day-row .day-label:nth-child(6)::before{
+        content: "t";
+    }
+    .dayparts thead .day-row .day-label:nth-child(7)::before{
+        content: "f";
+    }
+    .dayparts thead .day-row .day-label:nth-child(8)::before{
+        content: "s";
+    }
+
+    .dayparts-cell {
+        min-width: 30px !important;
+        height: 30px !important;
+        font-size: 10px !important;
+        font-weight: 600 !important;
+        margin: 0 !important;
+        border: 1px solid #ededed !important;
+    }
+    .hour-row .hour {
+        transition: .3s;
+        width: 30px;
+        height: 30px;
+        color: #fff;
+        font-size: 12px;
+        font-weight: 600;
+        background: #292E31;
+        border: 1px solid #eee;
+    }
+    .table>tbody>tr>td,
+    .table>tbody>tr>th,
+    .table>tfoot>tr>td,
+    .table>tfoot>tr>th,
+    .table>thead>tr>td,
+    .table>thead>tr>th {
+        padding: 0px !important;
+    }
+    #tbl_campaign_maintenance td,
+    #tbl_publisher_report td,
+    #tbl_publisher_user td,
+    #tbl_advertiser_user td,
+    #tbl_advertiser_report td,
+    #tbl_consumer_report td,
+    #tbl_lt_report td,
+    #tbl_admin_report td,
+    #tbl_advertiser_maintenance td,
+    #tbl_notification_report td,
+    #tbl_notification_read td {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 50px;
+    }
+    #tbl_campaign_maintenance td:before,
+    #tbl_publisher_report td:before,
+    #tbl_publisher_user td:before,
+    #tbl_advertiser_user td:before,
+    #tbl_advertiser_report td:before,
+    #tbl_consumer_report td:before,
+    #tbl_lt_report td:before,
+    #tbl_admin_report td:before,
+    #tbl_advertiser_maintenance td:before,
+    #tbl_notification_report td:before,
+    #tbl_notification_read td:before {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
+        padding: 0 !important;
+    }
+    #tbl_campaign_maintenance td:nth-of-type(1):before {
+        content: "ID" !important;
+    }
+    #tbl_campaign_maintenance td:nth-of-type(2):before {
+        content: "Advertiser Brand" !important;
+    }
+    #tbl_campaign_maintenance td:nth-of-type(3):before {
+        content: "Campaign" !important;
+    }
+    #tbl_campaign_maintenance td:nth-of-type(4):before {
+        content: "Bid" !important;
+    }
+    #tbl_campaign_maintenance td:nth-of-type(5):before {
+        content: "Monthly Budget" !important;
+    }
+    #tbl_campaign_maintenance td:nth-of-type(6):before {
+        content: "Daily Cap" !important;
+    }
+    #tbl_campaign_maintenance td:nth-of-type(7):before {
+        content: "Active" !important;
+    }
+    #tbl_campaign_maintenance td:nth-of-type(8):before {
+        content: "AutoReactive" !important;
+    }
+    #tbl_campaign_maintenance td:nth-of-type(9):before {
+        content: "Hidden" !important;
+    }
+    #tbl_campaign_maintenance td:nth-of-type(10):before {
+        content: "Actions" !important;
+    }
+    .form-control-symbol,
+    .is-focused .form-control-symbol {
+        background-image: none !important;
+    }
+    .symbol-text {
+        width: auto !important;
+    }
+    .form-control-symbol {
+        background: transparent !important;
+        border: 1px solid #ddd !important;
+        padding: 0 10px !important;
+        margin: 0 0 0 5px !important;
+        height: 30px !important;
+        line-height: 30px;
+        border-radius: 5px !important;
+        font-size: 12px !important;
+        width: 80px !important;
+    }
+    .tab-action-submenu {
+        width: 100% !important;
+    }
+    .submenu-content {
+        width: 100% !important;
+        padding: 10px 20px !important;
+        border: 0 !important;
+    }
+    .submenu-content:before {
+        content: "Results from top selection:";
+        position: relative;
+        display: block;
+        float: left;
+        width: 100%;
+        height: auto;
+        padding: 0 10px;
+        margin: 0 0 10px 0;
+        font-size: 14px;
+        font-weight: 400;
+        color: #aaa;
+    }
+    .submenu-content .tab-action-menu-item {
+        width: calc(50% - 10px) !important;
+    }
+    .tab-body-inner .inner-content {
+        padding: 10px 20px !important;
+    }
+    .txtBidContainer {
+        height: 100% !important;
+    }
+    .tab-body-inner .inner-content .col-sm-8,
+    .tab-body-inner .inner-content .col-sm-10 {
+        width: 80% !important;
+    }
+    .tab-body-inner .inner-content .col-sm-4,
+    .tab-body-inner .inner-content .col-sm-2 {
+        width: 20% !important;
+    }
+    .mat-tab-body .mat-tab-body-content .col-xl-8 {
+        width: 80% !important;
+    }
+    .mat-tab-body .mat-tab-body-content .col-xl-4 {
+        width: 20% !important;
+    }
+    .constraint-allow .justify-content-between .btn {
+        position: relative;
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+        float: left;
+        width: calc(100% / 3) !important;
+        height: 40px !important;
+        line-height: 1 !important;
+        padding: 0 !important;
+        margin: 20px 0 !important;
+        font-size: 10px !important;
+        border-radius: 0 !important;
+    }
+    .constraint-allow .justify-content-between .btn i {
+        font-size: 14px !important;
+        margin: 0 5px 0 0 !important;
+    }
+    .tab-action {
+        display: block !important;
+        border: 0 !important;
+    }
+    .tab-action-menu {
+        width: 100% !important;
+        min-height: auto !important;
+        padding: 10px 20px !important;
+        margin: 0 !important;
+    }
+    .tab-action-menu-item {
+        position: relative !important;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: flex-start !important;
+        width: calc((100% / 3) - 10px) !important;
+        height: 60px !important;
+        min-height: auto !important;
+        line-height: 1;
+        color: #999;
+        padding: 0 30px 0 10px !important;
+        margin: 5px !important;
+        border: 2px solid #01b88e;
+        border-radius: 10px;
+    }
+    .inner-action {
+        top: 0 !important;
+        right: 0 !important;
+        width: auto !important;
+        height: auto !important;
+    }
+    .inner-action .inner-arrow {
+        display: none !important;
+    }
+    .inner-count {
+        width: auto !important;
+        height: auto !important;
+        padding: 6px !important;
+        margin: 0 !important;
+        border-radius: 0 !important;
+        color: #01b88e !important;
+        font-size: 12px !important;
+        font-weight: 600 !important;
+        background: transparent !important;
+    }
+    .tab-action-menu-item-active .inner-count {
+        color: #fff !important;
+        background: transparent !important;
+    }
+    .tab-action-checkboxes {
+        width: 100% !important;
+    }
+    .inner-control {
+        height: auto !important;
+        padding: 0 20px;
+        margin: 0;
+        border-bottom: 2px solid #eee;
+    }
+    
+    .dayparts-cell {
+        min-width: 30px !important;
+        height: 30px !important;
+        font-size: 10px !important;
+        font-weight: 600 !important;
+        margin: 0 !important;
+        border: 1px solid #ededed !important;
+    }
+    .hour-row .hour {
+        transition: .3s;
+        width: 30px;
+        height: 30px;
+        color: #fff;
+        font-size: 12px;
+        font-weight: 600;
+        background: #292E31;
+        border: 1px solid #eee;
+    }
+    .table>tbody>tr>td,
+    .table>tbody>tr>th,
+    .table>tfoot>tr>td,
+    .table>tfoot>tr>th,
+    .table>thead>tr>td,
+    .table>thead>tr>th {
+        padding: 0px !important;
+    }
+    #tbl_campaign_maintenance td,
+    #tbl_publisher_report td,
+    #tbl_publisher_user td,
+    #tbl_advertiser_user td,
+    #tbl_advertiser_report td,
+    #tbl_consumer_report td,
+    #tbl_lt_report td,
+    #tbl_admin_report td,
+    #tbl_advertiser_maintenance td,
+    #tbl_notification_report td,
+    #tbl_notification_read td {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 50px;
+    }
+    #tbl_campaign_maintenance td:before,
+    #tbl_publisher_report td:before,
+    #tbl_publisher_user td:before,
+    #tbl_advertiser_user td:before,
+    #tbl_advertiser_report td:before,
+    #tbl_consumer_report td:before,
+    #tbl_lt_report td:before,
+    #tbl_admin_report td:before,
+    #tbl_advertiser_maintenance td:before,
+    #tbl_notification_report td:before,
+    #tbl_notification_read td:before {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
+        padding: 0 !important;
+    }
+    #tbl_campaign_maintenance td:nth-of-type(1):before {
+        content: "ID" !important;
+    }
+    #tbl_campaign_maintenance td:nth-of-type(2):before {
+        content: "Advertiser Brand" !important;
+    }
+    #tbl_campaign_maintenance td:nth-of-type(3):before {
+        content: "Campaign" !important;
+    }
+    #tbl_campaign_maintenance td:nth-of-type(4):before {
+        content: "Bid" !important;
+    }
+    #tbl_campaign_maintenance td:nth-of-type(5):before {
+        content: "Monthly Budget" !important;
+    }
+    #tbl_campaign_maintenance td:nth-of-type(6):before {
+        content: "Daily Cap" !important;
+    }
+    #tbl_campaign_maintenance td:nth-of-type(7):before {
+        content: "Active" !important;
+    }
+    #tbl_campaign_maintenance td:nth-of-type(8):before {
+        content: "AutoReactive" !important;
+    }
+    #tbl_campaign_maintenance td:nth-of-type(9):before {
+        content: "Hidden" !important;
+    }
+    #tbl_campaign_maintenance td:nth-of-type(10):before {
+        content: "Actions" !important;
+    }
+    .form-control-symbol,
+    .is-focused .form-control-symbol {
+        background-image: none !important;
+    }
+    .symbol-text {
+        width: auto !important;
+    }
+    .form-control-symbol {
+        background: transparent !important;
+        border: 1px solid #ddd !important;
+        padding: 0 10px !important;
+        margin: 0 0 0 5px !important;
+        height: 30px !important;
+        line-height: 30px;
+        border-radius: 5px !important;
+        font-size: 12px !important;
+        width: 80px !important;
+    }
+    .tab-action-submenu {
+        width: 100% !important;
+    }
+    .submenu-content {
+        width: 100% !important;
+        padding: 10px 20px !important;
+        border: 0 !important;
+    }
+    .submenu-content:before {
+        content: "Results from top selection:";
+        position: relative;
+        display: block;
+        float: left;
+        width: 100%;
+        height: auto;
+        padding: 0 10px;
+        margin: 0 0 10px 0;
+        font-size: 14px;
+        font-weight: 400;
+        color: #aaa;
+    }
+    .submenu-content .tab-action-menu-item {
+        width: calc(50% - 10px) !important;
+    }
+    .tab-body-inner .inner-content {
+        padding: 10px 20px !important;
+    }
+    .txtBidContainer {
+        height: 100% !important;
+    }
+    .tab-body-inner .inner-content .col-sm-8,
+    .tab-body-inner .inner-content .col-sm-10 {
+        width: 80% !important;
+    }
+    .tab-body-inner .inner-content .col-sm-4,
+    .tab-body-inner .inner-content .col-sm-2 {
+        width: 20% !important;
+    }
+    .mat-tab-body .mat-tab-body-content .col-xl-8 {
+        width: 80% !important;
+    }
+    .mat-tab-body .mat-tab-body-content .col-xl-4 {
+        width: 20% !important;
+    }
+    .constraint-allow .justify-content-between .btn {
+        position: relative;
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+        float: left;
+        width: calc(100% / 3) !important;
+        height: 40px !important;
+        line-height: 1 !important;
+        padding: 0 !important;
+        margin: 20px 0 !important;
+        font-size: 10px !important;
+        border-radius: 0 !important;
+    }
+    .constraint-allow .justify-content-between .btn i {
+        font-size: 14px !important;
+        margin: 0 5px 0 0 !important;
+    }
+    #tbl_scheduling_maintenance {
+        margin: 20px 0 !important;
+    }
+    #tbl_scheduling_maintenance th {
+        padding: 5px !important;
+        font-size: 13px;
+        font-weight: 300 !important;
+    }
+    #tbl_scheduling_maintenance tr:first-child th:nth-child(1),
+    #tbl_scheduling_maintenance tr:nth-child(2) th,
+    #tbl_scheduling_maintenance tr:nth-child(3) th,
+    #tbl_scheduling_maintenance tr:nth-child(4) th,
+    #tbl_scheduling_maintenance tr:nth-child(5) th,
+    #tbl_scheduling_maintenance tr:nth-child(6) th,
+    #tbl_scheduling_maintenance tr:nth-child(7) th {
+        background-color: rgba(0, 0, 0, .05);
+    }
+    #tbl_scheduling_maintenance tr:first-child th:nth-child(2),
+    #tbl_scheduling_maintenance tr:first-child th:nth-child(3),
+    #tbl_scheduling_maintenance tr:first-child th:nth-child(4),
+    #tbl_scheduling_maintenance tr:first-child th:nth-child(5),
+    #tbl_scheduling_maintenance tr:first-child th:nth-child(6),
+    #tbl_scheduling_maintenance tr:first-child th:nth-child(7),
+    #tbl_scheduling_maintenance tr:first-child th:nth-child(8),
+    #tbl_scheduling_maintenance tr:first-child th:nth-child(9),
+    #tbl_scheduling_maintenance tr:first-child th:nth-child(10),
+    #tbl_scheduling_maintenance tr:first-child th:nth-child(11),
+    #tbl_scheduling_maintenance tr:first-child th:nth-child(12),
+    #tbl_scheduling_maintenance tr:first-child th:nth-child(13),
+    #tbl_scheduling_maintenance tr:first-child th:nth-child(14),
+    #tbl_scheduling_maintenance tr:first-child th:nth-child(15),
+    #tbl_scheduling_maintenance tr:first-child th:nth-child(16),
+    #tbl_scheduling_maintenance tr:first-child th:nth-child(17),
+    #tbl_scheduling_maintenance tr:first-child th:nth-child(18),
+    #tbl_scheduling_maintenance tr:first-child th:nth-child(19),
+    #tbl_scheduling_maintenance tr:first-child th:nth-child(20),
+    #tbl_scheduling_maintenance tr:first-child th:nth-child(21),
+    #tbl_scheduling_maintenance tr:first-child th:nth-child(22),
+    #tbl_scheduling_maintenance tr:first-child th:nth-child(23),
+    #tbl_scheduling_maintenance tr:first-child th:nth-child(24),
+    #tbl_scheduling_maintenance tr:first-child th:nth-child(25) {
+        background: #dfe3ee;
+        font-size: 8px;
+        text-align: center !important;
+    }
+    .schedule-selected {
+        width: 30px !important;
+        height: 30px !important;
+        padding: 5px !important;
+    }
+    .table-mobile {
+        width: 100% !important;
+    }
+    #tbl_campaign_maintenance,
+    #tbl_publisher_report,
+    #tbl_publisher_user,
+    #tbl_advertiser_user,
+    #tbl_advertiser_report,
+    #tbl_consumer_report,
+    #tbl_lt_report,
+    #tbl_admin_report,
+    #tbl_advertiser_maintenance,
+    #tbl_notification_report,
+    #tbl_notification_read {
+        margin-bottom: 0 !important;
+    }
+    #tbl_campaign_maintenance,
+    #tbl_publisher_report,
+    #tbl_publisher_user,
+    #tbl_advertiser_user,
+    #tbl_advertiser_report,
+    #tbl_consumer_report,
+    #tbl_lt_report,
+    #tbl_admin_report,
+    #tbl_notification_report,
+    #tbl_notification_read,
+    #tbl_advertiser_maintenance,
+    #tbl_campaign_maintenance thead,
+    #tbl_publisher_report thead,
+    #tbl_publisher_user thead,
+    #tbl_advertiser_user thead,
+    #tbl_advertiser_report thead,
+    #tbl_consumer_report thead,
+    #tbl_lt_report thead,
+    #tbl_admin_report thead,
+    #tbl_notification_report thead,
+    #tbl_notification_read thead,
+    #tbl_advertiser_maintenance thead,
+    #tbl_campaign_maintenance tbody,
+    #tbl_publisher_report tbody,
+    #tbl_publisher_user tbody,
+    #tbl_advertiser_user tbody,
+    #tbl_advertiser_report tbody,
+    #tbl_consumer_report tbody,
+    #tbl_lt_report tbody,
+    #tbl_admin_report tbody,
+    #tbl_notification_report tbody,
+    #tbl_notification_read tbody,
+    #tbl_advertiser_maintenance tbody,
+    #tbl_campaign_maintenance th,
+    #tbl_publisher_report th,
+    #tbl_publisher_user th,
+    #tbl_advertiser_user th,
+    #tbl_advertiser_report th,
+    #tbl_consumer_report th,
+    #tbl_lt_report th,
+    #tbl_admin_report th,
+    #tbl_notification_report th,
+    #tbl_notification_read th,
+    #tbl_advertiser_maintenance th,
+    #tbl_campaign_maintenance td,
+    #tbl_publisher_report td,
+    #tbl_publisher_user td,
+    #tbl_advertiser_user td,
+    #tbl_advertiser_report td,
+    #tbl_consumer_report td,
+    #tbl_lt_report td,
+    #tbl_admin_report td,
+    #tbl_notification_report td,
+    #tbl_notification_read td,
+    #tbl_advertiser_maintenance td,
+    #tbl_campaign_maintenance tr,
+    #tbl_publisher_report tr,
+    #tbl_publisher_user tr,
+    #tbl_advertiser_user tr,
+    #tbl_advertiser_report tr,
+    #tbl_consumer_report tr,
+    #tbl_lt_report tr,
+    #tbl_admin_report tr,
+    #tbl_notification_report tr,
+    #tbl_notification_read tr,
+    #tbl_advertiser_maintenance tr {
+        display: block;
+    }
+    #tbl_campaign_maintenance thead tr,
+    #tbl_publisher_report thead tr,
+    #tbl_publisher_user thead tr,
+    #tbl_advertiser_user thead tr,
+    #tbl_advertiser_report thead tr,
+    #tbl_consumer_report thead tr,
+    #tbl_lt_report thead tr,
+    #tbl_admin_report thead tr,
+    #tbl_notification_report thead tr,
+    #tbl_notification_read thead tr,
+    #tbl_advertiser_maintenance thead tr {
+        position: absolute;
+        top: -9999px;
+        left: -9999px;
+    }
+    #tbl_campaign_maintenance tbody tr,
+    #tbl_publisher_report tbody tr,
+    #tbl_publisher_user tbody tr,
+    #tbl_advertiser_user tbody tr,
+    #tbl_advertiser_report tbody tr,
+    #tbl_consumer_report tbody tr,
+    #tbl_lt_report tbody tr,
+    #tbl_admin_report tbody tr,
+    #tbl_notification_report tbody tr,
+    #tbl_notification_read tbody tr,
+    #tbl_advertiser_maintenance tbody tr {
+        margin-bottom: 20px;
+        border: 1px solid #bdbdbd;
+    }
+    #tbl_campaign_maintenance td,
+    #tbl_publisher_report td,
+    #tbl_publisher_user td,
+    #tbl_advertiser_user td,
+    #tbl_advertiser_report td,
+    #tbl_consumer_report td,
+    #tbl_lt_report td,
+    #tbl_admin_report td,
+    #tbl_advertiser_maintenance td,
+    #tbl_notification_report td,
+    #tbl_notification_read td {
+        border: none !important;
+        position: relative;
+        width: 50%;
+        font-size: 13px !important;
+        margin-left: 50%;
+        text-align: center !important;
+    }
+    #tbl_campaign_maintenance td:empty,
+    #tbl_publisher_report td:empty,
+    #tbl_publisher_user td:empty,
+    #tbl_advertiser_user td:empty,
+    #tbl_advertiser_report td:empty,
+    #tbl_consumer_report td:empty,
+    #tbl_lt_report td:empty,
+    #tbl_admin_report td:empty,
+    #tbl_advertiser_maintenance td:empty,
+    #tbl_notification_report td:empty,
+    #tbl_notification_read td:empty {
+        min-height: 48px;
+    }
+    #tbl_campaign_maintenance td:before,
+    #tbl_publisher_report td:before,
+    #tbl_publisher_user td:before,
+    #tbl_advertiser_user td:before,
+    #tbl_advertiser_report td:before,
+    #tbl_consumer_report td:before,
+    #tbl_lt_report td:before,
+    #tbl_admin_report td:before,
+    #tbl_advertiser_maintenance td:before,
+    #tbl_notification_report td:before,
+    #tbl_notification_read td:before {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        padding: 12px 8px;
+        white-space: nowrap;
+        background: #dfe3ee;
+        transform: translate(-100%, 0);
+    }
+    .hidden {
+        display: none !important;
+    }
+    /* #tbl_admin_report td:nth-of-type(6):before { content: "Timeout rate"; } */
+    #tbl_admin_report td:nth-of-type(1):before {
+        content: "Display By";
+    }
+    #tbl_admin_report td:nth-of-type(2):before {
+        content: "Pub Request";
+    }
+    #tbl_admin_report td:nth-of-type(3):before {
+        content: "Avail. impressions";
+    }
+    #tbl_admin_report td:nth-of-type(4):before {
+        content: "Live impressions";
+    }
+    #tbl_admin_report td:nth-of-type(5):before {
+        content: "AVG Position";
+    }
+    #tbl_admin_report td:nth-of-type(6):before {
+        content: "Show Rate";
+    }
+    #tbl_admin_report td:nth-of-type(7):before {
+        content: "Clicks";
+    }
+    #tbl_admin_report td:nth-of-type(8):before {
+        content: "CTR";
+    }
+    #tbl_admin_report td:nth-of-type(9):before {
+        content: "eCPC";
+    }
+    #tbl_admin_report td:nth-of-type(10):before {
+        content: "eCPM";
+    }
+    #tbl_admin_report td:nth-of-type(11):before {
+        content: "MAO Revenue";
+    }
+    #tbl_admin_report td:nth-of-type(12):before {
+        content: "Pub Revenue";
+    }
+    #tbl_admin_report td:nth-of-type(13):before {
+        content: "Gross margin";
+    }
+    #tbl_admin_report td:nth-of-type(14):before {
+        content: "MAO Profit";
+    }
+    #tbl_admin_report td:nth-of-type(15):before {
+        content: "MAO Platform Profit";
+    }
+    #tbl_admin_report td:nth-of-type(16):before {
+        content: "Total Profit";
+    }
+    #tbl_lt_report td:nth-of-type(1):before {
+        content: "Display By";
+    }
+    #tbl_lt_report td:nth-of-type(2):before {
+        content: "API Clicks";
+    }
+    #tbl_lt_report td:nth-of-type(3):before {
+        content: "MAO Clicks";
+    }
+    #tbl_lt_report td:nth-of-type(4):before {
+        content: "API Leads";
+    }
+    #tbl_lt_report td:nth-of-type(5):before {
+        content: "MAO Spend";
+    }
+    #tbl_lt_report td:nth-of-type(6):before {
+        content: "eCPL";
+    }
+    #tbl_lt_report td:nth-of-type(7):before {
+        content: "Click To Lead";
+    }
+    #tbl_consumer_report td:nth-of-type(1):before {
+        content: "Display By";
+    }
+    #tbl_consumer_report td:nth-of-type(2):before {
+        content: "Pub Request";
+    }
+    #tbl_consumer_report td:nth-of-type(3):before {
+        content: "Avail. impressions";
+    }
+    #tbl_consumer_report td:nth-of-type(4):before {
+        content: "Live impressions";
+    }
+    #tbl_consumer_report td:nth-of-type(5):before {
+        content: "Clicks";
+    }
+    #tbl_consumer_report td:nth-of-type(6):before {
+        content: "CTR";
+    }
+    #tbl_consumer_report td:nth-of-type(7):before {
+        content: "eCPC";
+    }
+    #tbl_consumer_report td:nth-of-type(8):before {
+        content: "eCPM";
+    }
+    #tbl_consumer_report td:nth-of-type(9):before {
+        content: "Pub Revenue";
+    }
+    #tbl_advertiser_report td:nth-of-type(1):before {
+        content: "Date";
+    }
+    #tbl_advertiser_report td:nth-of-type(2):before {
+        content: "Impressions";
+    }
+    #tbl_advertiser_report td:nth-of-type(3):before {
+        content: "Clicks";
+    }
+    #tbl_advertiser_report td:nth-of-type(4):before {
+        content: "CPC";
+    }
+    #tbl_advertiser_report td:nth-of-type(5):before {
+        content: "CTR";
+    }
+    #tbl_advertiser_report td:nth-of-type(6):before {
+        content: "Spend";
+    }
+    #tbl_advertiser_user td:nth-of-type(1):before {
+        content: "User";
+    }
+    #tbl_advertiser_user td:nth-of-type(2):before {
+        content: "First Name";
+    }
+    #tbl_advertiser_user td:nth-of-type(3):before {
+        content: "Last Name";
+    }
+    #tbl_advertiser_user td:nth-of-type(4):before {
+        content: "Email Address";
+    }
+    #tbl_advertiser_user td:nth-of-type(5):before {
+        content: "Status";
+    }
+    #tbl_publisher_user td:nth-of-type(1):before {
+        content: "User";
+    }
+    #tbl_publisher_user td:nth-of-type(2):before {
+        content: "First Name";
+    }
+    #tbl_publisher_user td:nth-of-type(3):before {
+        content: "Last Name";
+    }
+    #tbl_publisher_user td:nth-of-type(4):before {
+        content: "Email Address";
+    }
+    #tbl_publisher_user td:nth-of-type(5):before {
+        content: "Status";
+    }
+    #tbl_publisher_report td:nth-of-type(1):before {
+        content: "Feed Name";
+    }
+    #tbl_publisher_report td:nth-of-type(2):before {
+        content: "Pub Request";
+    }
+    #tbl_publisher_report td:nth-of-type(3):before {
+        content: "Ad Request";
+    }
+    #tbl_publisher_report td:nth-of-type(4):before {
+        content: "Avail. Impressions";
+    }
+    #tbl_publisher_report td:nth-of-type(5):before {
+        content: "Live Impressions";
+    }
+    #tbl_publisher_report td:nth-of-type(6):before {
+        content: "Clicks";
+    }
+    #tbl_publisher_report td:nth-of-type(7):before {
+        content: "eCPC";
+    }
+    #tbl_publisher_report td:nth-of-type(8):before {
+        content: "CTR";
+    }
+    #tbl_publisher_report td:nth-of-type(9):before {
+        content: "eCPM";
+    }
+    #tbl_publisher_report td:nth-of-type(10):before {
+        content: "Revenue";
+    }
+    #tbl_campaign_maintenance td:nth-of-type(1):before {
+        content: "Campaign";
+    }
+    #tbl_campaign_maintenance td:nth-of-type(2):before {
+        content: "Vertical";
+    }
+    #tbl_campaign_maintenance td:nth-of-type(3):before {
+        content: "Advertiser Brand";
+    }
+    #tbl_campaign_maintenance td:nth-of-type(4):before {
+        content: "Bid";
+    }
+    #tbl_campaign_maintenance td:nth-of-type(5):before {
+        content: "Campaign Link";
+    }
+    #tbl_campaign_maintenance td:nth-of-type(6):before {
+        content: "Daily Cap";
+    }
+    #tbl_campaign_maintenance td:nth-of-type(7):before {
+        content: "Display URL";
+    }
+    #tbl_campaign_maintenance td:nth-of-type(8):before {
+        content: "Headline";
+    }
+    #tbl_campaign_maintenance td:nth-of-type(9):before {
+        content: "Bullet1";
+    }
+    #tbl_campaign_maintenance td:nth-of-type(10):before {
+        content: "Bullet2";
+    }
+    #tbl_campaign_maintenance td:nth-of-type(11):before {
+        content: "Bullet3";
+    }
+    #tbl_campaign_maintenance td:nth-of-type(12):before {
+        content: "Bullet4";
+    }
+    #tbl_campaign_maintenance td:nth-of-type(13):before {
+        content: "Active";
+    }
+    #tbl_campaign_maintenance td:nth-of-type(14):before {
+        content: "AutoReactive";
+    }
+    #tbl_advertiser_maintenance td:nth-of-type(1):before {
+        content: "Advertiser";
+    }
+    #tbl_advertiser_maintenance td:nth-of-type(2):before {
+        content: "Company Name";
+    }
+    #tbl_advertiser_maintenance td:nth-of-type(3):before {
+        content: "Advertiser Name";
+    }
+    #tbl_advertiser_maintenance td:nth-of-type(4):before {
+        content: "Contact Name";
+    }
+    #tbl_advertiser_maintenance td:nth-of-type(5):before {
+        content: "Contact Phone";
+    }
+    #tbl_advertiser_maintenance td:nth-of-type(6):before {
+        content: "Contact Email";
+    }
+    #tbl_advertiser_maintenance td:nth-of-type(7):before {
+        content: "Billing Contact";
+    }
+    #tbl_advertiser_maintenance td:nth-of-type(8):before {
+        content: "Billing Phone";
+    }
+    #tbl_advertiser_maintenance td:nth-of-type(9):before {
+        content: "Billing Email";
+    }
+    #tbl_advertiser_maintenance td:nth-of-type(10):before {
+        content: "Bill. City";
+    }
+    #tbl_advertiser_maintenance td:nth-of-type(11):before {
+        content: "Bill. State";
+    }
+    #tbl_advertiser_maintenance td:nth-of-type(12):before {
+        content: "Billing Zip";
+    }
+    #tbl_advertiser_maintenance td:nth-of-type(13):before {
+        content: "Token";
+    }
+    #tbl_advertiser_maintenance td:nth-of-type(14):before {
+        content: "Active";
+    }
+    #tbl_campaign_maintenance tfoot,
+    #tbl_publisher_report tfoot,
+    #tbl_publisher_user tfoot,
+    #tbl_advertiser_user tfoot,
+    #tbl_advertiser_report tfoot,
+    #tbl_consumer_report tfoot,
+    #tbl_lt_report tfoot,
+    #tbl_admin_report tfoot,
+    #tbl_notification_report tfoot,
+    #tbl_notification_read tfoot,
+    #tbl_advertiser_maintenance tfoot {
+        display: block;
+        width: 100%;
+        color: #fff;
+        background: #8b9dc3;
+    }
+    #tbl_campaign_maintenance tfoot td:before,
+    #tbl_publisher_report tfoot td:before,
+    #tbl_publisher_user tfoot td:before,
+    #tbl_advertiser_user tfoot td:before,
+    #tbl_advertiser_report tfoot td:before,
+    #tbl_consumer_report tfoot td:before,
+    #tbl_lt_report tfoot td:before,
+    #tbl_admin_report tfoot td:before,
+    #tbl_notification_report tfoot td::before,
+    #tbl_notification_read tfoot td::before,
+    #tbl_advertiser_maintenance tfoot td:before {
+        background: transparent;
+    }
+    
+    .copyright {
+        font-size: 10px;
+        text-align: center;
+        width: 100%;
+    }
+    .nav-open .sidebar .nav-submenu {
+        width: auto !important;
+        margin: 0 15px !important;
+        padding-right: 10px !important;
+        padding-left: 15% !important;
+    }
+    .label-header-constraint .w-100 {
+        display: none;
+    }
+    .inner-content .row .label-header-constraint:first-child .w-100 {
+        display: block !important;
+    }
+    .mat-tab-body-content .label-header-constraint .font-weight-bold {
+        display: none;
+    }
+    .mat-tab-body-content .label-header-constraint:first-child .font-weight-bold {
+        display: block;
+    }
+    #tbl_notification_report td,
+    #tbl_notification_read td {
+        display: flex;
+        align-items: center;
+    }
+    #tbl_notification_report td:nth-of-type(1):before {
+        content: "Title";
+    }
+    #tbl_notification_report td:nth-of-type(2):before {
+        content: "Type";
+    }
+    #tbl_notification_report td:nth-of-type(3):before {
+        content: "Content";
+    }
+    #tbl_notification_report td:nth-of-type(4):before {
+        content: "Published date";
+    }
+    #tbl_notification_report td:nth-of-type(5):before {
+        content: "Displayed to";
+    }
+    #tbl_notification_report td:nth-of-type(6):before {
+        content: "Added by";
+    }
+    #tbl_notification_report td:nth-of-type(7):before {
+        content: "Date Added";
+    }
+    #tbl_notification_report td:nth-of-type(8):before {
+        content: "Status";
+    }
+    #tbl_notification_report td:nth-of-type(9):before {
+        content: "Options";
+    }
+    #tbl_notification_read td:nth-of-type(1):before {
+        content: "First Name";
+    }
+    #tbl_notification_read td:nth-of-type(2):before {
+        content: "Last Name";
+    }
+    #tbl_notification_read td:nth-of-type(3):before {
+        content: "Email";
+    }
+}
+
+
+/* BreakContent tables */
+@media screen and (max-width: 1000px) {
+
+	.tbl_dynamic_cols  {
+		border: 0;
+	}
+
+	.tbl_dynamic_cols thead {
+		border: none;
+		clip: rect(0 0 0 0);
+		height: 1px;
+		margin: -1px;
+		overflow: hidden;
+		padding: 0;
+		position: absolute;
+		width: 1px;
+	}
+
+	.tbl_dynamic_cols  tr {
+		display: block;
+		float: left;
+	    margin-bottom: 30px;
+	    border: 1px solid #bdbdbd;
+	}
+
+	.tbl_dynamic_cols  td {
+		display: flex;
+		align-items: baseline;
+		justify-content: space-between;
+		float: left;
+		width: 100%;
+		padding: 0 15px 0 0 !important;
+		border-bottom: 1px solid #ddd;
+	}
+
+	.tbl_dynamic_cols  td::before {
+		content: attr(data-label);
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		float: left;
+		min-width: 50%;
+		line-height: 1;
+		padding: 10px 15px;
+		margin: 0 15px 0 0;
+		font-weight: bold;
+		background: #c3f7c96e;
+		text-align: center;
+	}
+
+	.tbl_dynamic_cols  td:last-child {
+		border-bottom: 0;
+	}
+
+  }
