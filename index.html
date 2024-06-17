@@ -9,7 +9,7 @@
 </head>
 <body>
     <h3>Ad Networks Table</h3>
-    <table>
+    <table class="table-1">
         <thead>
             <tr>
                 <th>ID</th>
@@ -23,17 +23,17 @@
                 <td>1</td>
                 <td>MediaAlpha</td>
                 <td>True</td>
-                <td>
-                    <a href="">Edit</a>
-                    <a href="">Delete</a>
-                    <a href="">APIs</a>
-                    <a href="">Key</a>
+                <td class="td-100">
+                    <button type="button" title="Edit"><i class="fa-light fa-pen-to-square"></i></button>
+                    <button type="button" title="Delete"><i class="fa-light fa-trash-can"></i></button>
+                    <button type="button" title="APIs"><i class="fa-light fa-webhook"></i></button>
+                    <button type="button" title="Key"><i class="fa-light fa-key"></i></button>                    
                 </td>
             </tr>
         </tbody>
     </table>
     <h3>Ad Networks Feed API Table</h3>
-    <table>
+    <table class="table-2">
         <thead>
             <tr>
                 <th>ID</th>
@@ -50,64 +50,232 @@
                 <td>Exchange</td>
                 <td>Advertiser</td>
                 <td>Campaign</td>
-                <td>
-                    <a href="">True</a>
+                <td class="td-50">
+                    <button type="button">True</button>
                 </td>
-                <td>
-                    <a href="">Delete</a>
-                </td>
+                <td class="td-50">
+                    <button type="button">Delete</button>
+                </td>                
             </tr>
         </tbody>
     </table>
     <h3>Admin Report Table</h3>
-    
-<table>
-  <thead>
-    <tr>
-      <th>Display By</th>
-      <th>Pub Request</th>
-      <th>Avail. impressions</th>
-      <th>Live impressions</th>
-      <th>AVG Position</th>
-      <th>Show Rate</th>
-      <th>Clicks</th>
-      <th>CTR</th>
-      <th>еСРС</th>
-      <th>еСРМ</th>
-      <th>MAO Revenue</th>
-      <th>Pub Revenue</th>
-      <th>Gross margin</th>
-      <th>MAO Profit</th>
-      <th>MAO Platform Profit</th>
-      <th>Total Profit</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Jun 4 2024 12:00 AM</td>
-      <td>106</td>
-      <td>106</td>
-      <td>53</td>
-      <td>1.00</td>
-      <td>50.00 %</td>
-      <td></td>
-      <td>0 %</td>
-      <td>$0.00</td>
-      <td>$0.00</td>
-      <td>$0.00</td>
-      <td>$0.00</td>
-      <td>0.00 %</td>
-      <td>$0.00</td>
-      <td>$0.00</td>
-      <td>$0.00</td>
-    </tr>
-  </tbody>
-</table>
-
-    
+    <table class="table-3">
+        <thead>
+            <tr>
+                <th>Display By</th>
+                <th>Pub Request</th>
+                <th>Avail. Impressions</th>
+                <th>Live Impressions</th>
+                <th>AVG Position</th>
+                <th>Show Rate</th>
+                <th>Clicks</th>
+                <th>CTR</th>
+                <th>еСРС</th>
+                <th>еСРМ</th>
+                <th>MAO Revenue</th>
+                <th>Pub Revenue</th>
+                <th>Gross Margin</th>
+                <th>MAO Profit</th>
+                <th>MAO Platform Profit</th>
+                <th>Total Profit</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="td-100">Jun 4 2024 12:00 AM</td>
+                <td>106</td>
+                <td>106</td>
+                <td>53</td>
+                <td>1.00</td>
+                <td>50.00 %</td>
+                <td>0</td>
+                <td>0 %</td>
+                <td>$0.00</td>
+                <td>$0.00</td>
+                <td>$0.00</td>
+                <td>$0.00</td>
+                <td>0.00 %</td>
+                <td class="td-33">$0.00</td>
+                <td class="td-33">$0.00</td>
+                <td class="td-33">$0.00</td>
+            </tr>
+        </tbody>
+    </table>
     <h3>Admin Listings Table</h3>
+    <table class="table-4">
+        <thead>
+            <th>Status</th>
+            <th>Brand Name</th>
+            <th>Click URL</th>
+            <th>Logo</th>
+            <th>Network</th>
+            <th>BaseCPC</th>
+            <th>Weight</th>
+            <th>CPC</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Bid Modifier Log</th>
+            <th>Ad Copy Version</th>
+        </thead>
+        <tbody>
+            <td>Displayed</td>
+            <td>Other</td>
+            <td>
+                <img src="https://placehold.co/140x60" alt="button">
+            </td>
+            <td>
+                <img src="https://placehold.co/140x60" alt="loho">
+            </td>
+            <td>Other</td>
+            <td>2.88</td>
+            <td>2.00</td>
+            <td>1.87</td>
+            <td>Title</td>
+            <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt praesentium dolore placeat temporibus vitae necessitatibus quae, minus fugit libero quidem, assumenda, culpa debitis in nam quibusdam dolores molestiae quas sed.</td>
+            <td>0</td>
+            <td>0</td>
+        </tbody>
+    </table>
     <h3>Log Report Table</h3>
+    <table class="table-5">
+        <thead>
+            <tr>
+                <th>Display By</th>
+                <th>Pub Request</th>
+                <th>Avail. impressions</th>
+                <th>Live impressions</th>
+                <th>AVG Position</th>
+                <th>Show Rate</th>
+                <th>Clicks</th>
+                <th>CTR</th>
+                <th>eCPC</th>
+                <th>eCPM</th>
+                <th>MAO Revenue</th>
+                <th>Pub Revenue</th>
+                <th>Gross margin</th>
+                <th>MAO Profit</th>
+                <th>MAO Platform Profit</th>
+                <th>Total Profit</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Segment A</td>
+                <td>120</td>
+                <td>35000</td>
+                <td>28000</td>
+                <td>1.8</td>
+                <td>70%</td>
+                <td>250</td>
+                <td>0.71%</td>
+                <td>$1.20</td>
+                <td>$5.80</td>
+                <td>$4200</td>
+                <td>$2800</td>
+                <td>30%</td>
+                <td>$1400</td>
+                <td>$1200</td>
+                <td>$2600</td>
+            </tr>
+        </tbody>
+    </table>    
     <h3>Publisher API Token Table</h3>
+    <table class="table-6">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Description</th>
+                <th>Vertical</th>
+                <th>Publisher</th>
+                <th>Token</th>
+                <th>PE Margin</th>
+                <th>Bid Modifier</th>
+                <th>Active</th>
+                <th>Options</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>60</td>
+                <td>Auto Ins LP AXAD</td>
+                <td>Auto Insurance</td>
+                <td>AXAD</td>
+                <td>
+                    <button type="button">Show Token</button>
+                </td>
+                <td>
+                    <input type="text" value="%">
+                </td>
+                <td>
+                    <input type="text" value="0%">
+                </td>
+                <td>True</td>
+                <td>
+                    <button type="button">Edit</button>
+                    <button type="button">Options</button>
+                    <button type="button">Config</button>
+                    <button type="button">Report</button>
+                    <button type="button">Delete</button>                    
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <h3>Publisher API Token Options</h3>
+    <table class="table-7">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>API Name</th>
+                <th>Margin</th>
+                <th>Active</th>
+                <th>Options</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="td-100">14</td>
+                <td class="td-100">BannerEdge Auto Ins</td>
+                <td class="td-33">
+                    <input type="text" value="0%">
+                </td>
+                <td class="td-33">
+                    <input type="checkbox" name="active" id="">
+                </td>
+                <td class="td-33">
+                    <button type="button">Config</button>
+                </td>
+            </tr>
+        </tbody>
+    </table>
     <h3>Collaborator Review Table</h3>
+    <table class="table-8">
+        <thead>
+            <tr>
+                <th>Campaign ID</th>
+                <th>Campaign</th>
+                <th>AdNet API</th>
+                <th>Exchange Name</th>
+                <th>User ID</th>
+                <th>User</th>
+                <th>Name</th>
+                <th>Impersonate</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="td-100">34234</td>
+                <td>Extra Campaign</td>
+                <td>342</td>
+                <td>Campaign</td>
+                <td class="td-100">4153</td>
+                <td class="td-100">alex@myadoptimizer.com</td>
+                <td class="td-50">Alex García</td>
+                <td class="td-50">
+                    <button type="button">Log In as User</button>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </body>
 </html>
