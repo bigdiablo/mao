@@ -96,6 +96,55 @@ h3 {
         flex-direction: row;
     }
 
+    .td-total,
+    .td-card,
+    .td-showcase {
+        align-items: center;
+        padding-bottom: 6px;
+        font-weight: 600;
+        border-width: 1px ;
+        border-style: solid;
+        border-radius: 6px;
+    }
+
+    .td-total:before,
+    .td-card:before,
+    .td-showcase:before {
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: 26px;
+    }
+
+    .td-card {
+        width: calc(25% - 6px);
+        color: #01b88e;
+        font-size: 12px;
+        border-color: #01b88e;
+    }
+    .td-card:before {
+        background: #01b88e;
+        color: #fff;
+    }
+
+    .td-total {
+        color: #292e31;
+        border-color: #292e31;
+    }
+
+    .td-total:before {
+        background: #292e31;
+        color: #fff;
+    }
+
+    .td-showcase {
+        border-color: #eee;
+    }
+
+    .td-showcase::before {
+        background: #eee;
+    }
+
     input[type="text"] {
         font-family: "Figtree", sans-serif;
         width: 100%;
@@ -210,9 +259,6 @@ h3 {
 
     .table-3 td:nth-of-type(1):before {
         content: "Display By";
-    }
-    .table-3 td:nth-of-type(1) {
-        width: 100%;
     }
     .table-3 td:nth-of-type(2):before {
         content: "Pub Request";
