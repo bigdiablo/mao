@@ -51,9 +51,10 @@ body {
         align-items: stretch;
         justify-content: flex-start;
         flex-wrap: wrap;
-        gap: 8px;
+        row-gap: 12px;
+        column-gap: 8px;
         width: 100%;
-        padding: 10px;
+        padding: 16px;
         overflow: hidden;
         border: 1px solid #b1b7c5;
         border-radius: 4px;
@@ -72,13 +73,10 @@ body {
         overflow: hidden;
         gap: 6px;
         width: calc(50% - 4px);
-        padding: 8px;
         font-size: 14px;
         font-weight: 400;
         line-height: 1.3;
         text-align: left;
-        background: #fafafa;
-        border-radius: 4px;
     }
 
     td img {
@@ -225,7 +223,7 @@ body {
         content: "MAO Profit";
     }
     .table-3 td:nth-of-type(15):before {
-        content: "MAO Platform Profit";
+        content: "MAO Platform";
     }
     .table-3 td:nth-of-type(16):before {
         content: "Total Profit";
@@ -311,7 +309,7 @@ body {
         content: "MAO Profit";
     }
     .table-5 td:nth-of-type(15):before {
-        content: "MAO Platform Profit";
+        content: "MAO Platform";
     }
     .table-5 td:nth-of-type(16):before {
         content: "Total Profit";
