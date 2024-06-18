@@ -31,7 +31,7 @@ h3 {
     line-height: 1.7;
 }
 
-@media only screen and (max-width: 425px) {
+@media only screen and (max-width: 1000px) {
     body {
         display: flex;
         align-items: center;
@@ -145,6 +145,14 @@ h3 {
         background: #eee;
     }
 
+    .td-headline {
+        width: 100%;
+        padding: 10px;
+        color: #01b88e;
+        border: 1px solid #01b88e;
+        border-radius: 6px;
+    }
+
     input[type="text"] {
         font-family: "Figtree", sans-serif;
         width: 100%;
@@ -190,6 +198,14 @@ h3 {
 
     button i {
         font-size: 16px;
+    }
+
+    button.btn-trash {
+        background: #f44336;
+    }
+
+    button.btn-primary {
+        background: #01b88e;
     }
 
     .table-1 td {
@@ -242,11 +258,6 @@ h3 {
     }
     .table-2 td:nth-of-type(4) {
         order: -1;
-        width: 100%;
-        padding: 10px;
-        color: #01b88e;
-        border: 1px solid #01b88e;
-        border-radius: 6px;
     }
     .table-2 td:nth-of-type(5):before {
         content: "Active";
@@ -509,11 +520,6 @@ h3 {
     }
     .table-8 td:nth-of-type(6) {
         order: -1;
-        width: 100%;
-        padding: 10px;
-        color: #01b88e;
-        border: 1px solid #01b88e;
-        border-radius: 6px;
     }
     .table-8 td:nth-of-type(7):before {
         content: "Name";
