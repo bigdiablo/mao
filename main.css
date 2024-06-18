@@ -25,6 +25,12 @@ body {
     -webkit-box-sizing: border-box;
 }
 
+h3 {
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1.7;
+}
+
 @media only screen and (max-width: 425px) {
     body {
         display: flex;
@@ -32,12 +38,6 @@ body {
         flex-direction: column;
         padding: 40px 20px;
         gap: 20px;
-    }
-
-    h3 {
-        font-size: 18px;
-        font-weight: bold;
-        line-height: 1.7;
     }
     
     table {
@@ -51,7 +51,7 @@ body {
         align-items: stretch;
         justify-content: flex-start;
         flex-wrap: wrap;
-        row-gap: 12px;
+        row-gap: 16px;
         column-gap: 8px;
         width: 100%;
         padding: 16px;
@@ -93,16 +93,7 @@ body {
     }
 
     .td-actions {
-        width: 100%;
         flex-direction: row;
-    }
-
-    .td-actions::before {
-        display: none;
-    }
-
-    .td-100 {
-        width: 100%;
     }
 
     input[type="text"] {
@@ -116,7 +107,7 @@ body {
         line-height: 1;
         text-align: center;
         background: transparent;
-        border: 1px solid black;
+        border: 1px solid #b1b7c5;
         border-radius: 3px;
     }
 
@@ -128,13 +119,17 @@ body {
 
     button {
         font-family: "Figtree", sans-serif;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 6px;
         width: 100%;
         height: 35px;
-        border: 1px solid transparent;
+        border: 0;
         border-radius: 4px;
         color: #fff;
         font-size: 14px;
-        font-weight: 700;
+        font-weight: 600;
         line-height: 1;
         overflow: hidden;
         cursor: pointer;
@@ -154,11 +149,20 @@ body {
     .table-1 td:nth-of-type(2):before {
         content: "Name";
     }
+    .table-1 td:nth-of-type(2) {
+        order: -1;
+        width: 100%;
+    }
     .table-1 td:nth-of-type(3):before {
         content: "Active";
     }
     .table-1 td:nth-of-type(4):before {
         content: "Options";
+        display: none;
+    }
+
+    .table-1 td:nth-of-type(4) {
+        width: 100%;
     }
     
     .table-2 td:nth-of-type(1):before {
@@ -175,13 +179,18 @@ body {
     }
     .table-2 td:nth-of-type(5):before {
         content: "Active";
+        display: none;
     }
     .table-2 td:nth-of-type(6):before {
         content: "Delete";
+        display: none;
     }
 
     .table-3 td:nth-of-type(1):before {
         content: "Display By";
+    }
+    .table-3 td:nth-of-type(1) {
+        width: 100%;
     }
     .table-3 td:nth-of-type(2):before {
         content: "Pub Request";
@@ -256,8 +265,14 @@ body {
     .table-4 td:nth-of-type(9):before {
         content: "Title";
     }
+    .table-4 td:nth-of-type(9) {
+        width: 100%;
+    }
     .table-4 td:nth-of-type(10):before {
         content: "Description";
+    }
+    .table-4 td:nth-of-type(10) {
+        width: 100%;
     }
     .table-4 td:nth-of-type(11):before {
         content: "Bid Modifier Log";
@@ -329,6 +344,10 @@ body {
     }
     .table-6 td:nth-of-type(5):before {
         content: "Token";
+        display: none;
+    }
+    .table-6 td:nth-of-type(5) {
+        width: 100%;
     }
     .table-6 td:nth-of-type(6):before {
         content: "PE Margin";
@@ -341,6 +360,10 @@ body {
     }
     .table-6 td:nth-of-type(9):before {
         content: "Options";
+        display: none;
+    }
+    .table-6 td:nth-of-type(9) {
+        width: 100%;
     }
 
     .table-7 td:nth-of-type(1):before {
@@ -351,15 +374,18 @@ body {
     }
     .table-7 td:nth-of-type(2) {
         order: -1;
+        width: 100%;
     }
     .table-7 td:nth-of-type(3):before {
         content: "Margin";
     }
     .table-7 td:nth-of-type(4):before {
         content: "Active";
+        display: none;
     }
     .table-7 td:nth-of-type(5):before {
         content: "Options";
+        display: none;
     }
 
     .table-8 td:nth-of-type(1):before {
@@ -382,12 +408,17 @@ body {
     }
     .table-8 td:nth-of-type(6) {
         order: -1;
+        width: 100%;
     }
     .table-8 td:nth-of-type(7):before {
         content: "Name";
     }
     .table-8 td:nth-of-type(8):before {
         content: "Impersonate";
-    }    
+        display: none;
+    }
+    .table-8 td:nth-of-type(8) {
+        width: 100%;
+    }
     
 }
